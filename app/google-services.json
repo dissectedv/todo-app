@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788103985655",
+    "project_id": "listadetarefas-f852c",
+    "storage_bucket": "listadetarefas-f852c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788103985655:android:380838bfe38560093c56f2",
+        "android_client_info": {
+          "package_name": "com.example.listadetarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_hg8OOokVH5yMODM2uZfy5yMzdBCETkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
