@@ -39,4 +39,4 @@ gradle-wrapper.properties
 # Eclipse project files
 .project
 .classpath
-google-services.json
+app/google-services.json
