@@ -9,7 +9,6 @@ import androidx.datastore.preferences.preferencesDataStore
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 
-// Cria uma instância única do DataStore para a aplicação com o nome "settings"
 private val Context.dataStore: DataStore<Preferences> by preferencesDataStore(name = "settings")
 
 class ThemeDataStore(private val context: Context) {
