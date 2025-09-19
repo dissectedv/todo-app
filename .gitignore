@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+
+# Kotlin
+*.kotlin_metadata
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Android/Android Studio
+*.apk
+*.ap_
+*.dex
+*.class
+local.properties
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+*.hprof
+*.log
+captures/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+
+# Gradle wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Eclipse project files
+.project
+.classpath
